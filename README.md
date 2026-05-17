@@ -8,6 +8,9 @@ Anggota kelompok:
 2. Dani Prayogi H1H025014 "Membuat laporan praktikum"
 3. Dimas Adi Saputra H1H025026 "Membuat file README.md di github yang berisi penjelasan ketujuh rangkaian, screenshoot rangkaian, link tinkercad. Membuat rangkaian gerbang logika di tinkercad."
 
+Link Tinkercad:
+https://www.tinkercad.com/things/1BZPTAeGtrM-cool-albar-kasi?sharecode=HZ3cMUdos3U1jT0QfJSFYZIQnsdwGDDYN04_cS_KzgI
+
 Materi Pembahasan: 
 
 ## 1. Gerbang Logika AND
